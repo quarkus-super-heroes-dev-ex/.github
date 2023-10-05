@@ -1,5 +1,7 @@
 # Developer Tooling & Workspace Setup for the Quarkus Super Heroes Project
 
+This is an OpenShift DevSpaces demo workspace that is derived from the Quarkus Super Heroes project: [https://github.com/quarkusio/quarkus-super-heroes](https://github.com/quarkusio/quarkus-super-heroes)
+
 ## Create Container Images for Workspaces
 
 1. Login to your OpenShift Cluster as a non-admin user with self-provisioner rights
